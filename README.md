@@ -1,5 +1,6 @@
 # CreativeCoding
 The following piece is made with the inclusion of my own graphic art!
+Access full assignment here: https://editor.p5js.org/AmandaO/full/DDN0pJVre
 
 https://user-images.githubusercontent.com/111409337/185253380-f050c65c-9e1f-4967-8982-d925227c7162.mp4
 
@@ -11,5 +12,3 @@ This class assignment proivded me with the opportunity to play around with featu
 - Camera Feature, you have the ability to see other factors of this piece with the use of the sliders
 - Click and hold on motion
 
-
-<iframe src="https://editor.p5js.org/AmandaO/full/DDN0pJVre"></iframe>
